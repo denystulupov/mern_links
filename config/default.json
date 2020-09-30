@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "denys trainee mern",
+  "mongoUri": "mongodb+srv://denys:1234rewq@cluster0.bztsx.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
